@@ -5,6 +5,7 @@ Sorted alphabetically by first name. To add yours, please see [the contributing 
 
 If you'd like to see GitHub profiles, [click here](github.md).
 
+- Aakash Adesara http://www.aakashadesara.com
 - Aakash Japi http://aakashjapi.com/
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
